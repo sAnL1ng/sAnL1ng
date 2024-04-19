@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sAnL1ng
-- 🌱 I’m currently learning TypeScript, Vue3, Node.js, AIGC ...
+- 🌱 I’m currently learning Vue3, React, TypeScript, Node.js, AIGC ...
 - 📫 How to reach me: c4rtryn@outlook.com
 - 📍 Also you can reach me:
 
